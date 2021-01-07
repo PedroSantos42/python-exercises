@@ -1,0 +1,1 @@
+leia um número inteiro e converta para base 2, 8 ou 16, de acordo com entrada do usuário

@@ -1,0 +1,1 @@
+leia 2 notas, calcule a média e diga a situação do aluno

@@ -1,0 +1,13 @@
+entrada = input('Insira alguma coisa: ')
+
+print('alnum:   ', entrada.isalnum())
+print('alpha:   ', entrada.isalpha())
+print('decimal: ', entrada.isdecimal())
+print('digit:   ', entrada.isdigit())
+print('identif: ', entrada.isidentifier())
+print('lower:   ', entrada.islower())
+print('numeric: ', entrada.isnumeric())
+print('printbl: ', entrada.isprintable())
+print('space:   ', entrada.isspace())
+print('title:   ', entrada.istitle())
+print('upper:   ', entrada.isupper())

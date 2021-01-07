@@ -1,0 +1,10 @@
+n1 = input(print('Insira o primeiro número: '))
+n2 = input(print('Insira o segundo número: '))
+
+print(som = n1 + n2)
+print(sub = n1 - n2)
+print(mul = n1 * n2)
+print(div = n1 / n2)
+print(rdiv = n1 % n2)
+print(pot = n1 ** n2)
+print(rai = n1 // n2)

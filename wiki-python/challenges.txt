@@ -1,0 +1,96 @@
+# 09
+
+Faça um programa que simule um lançamento de dados. Lance o dado 100 vezes e armazene os resultados em um vetor . Depois, mostre quantas vezes cada valor foi conseguido. Dica: use um vetor de contadores(1-6) e uma função para gerar numeros aleatórios, simulando os lançamentos dos dados.
+
+=============//=============//=============//=============//=============//=============//=============
+# 10
+
+Jogo de Forca. Desenvolva um jogo da forca. O programa terá uma lista de palavras lidas de um arquivo texto e escolherá uma aleatoriamente. O jogador poderá errar 6 vezes antes de ser enforcado.
+
+Digite uma letra: A
+-> Você errou pela 1ª vez. Tente de novo!
+
+Digite uma letra: O
+A palavra é: _ _ _ _ O
+
+Digite uma letra: E
+A palavra é: _ E _ _ O
+
+Digite uma letra: S
+-> Você errou pela 2ª vez. Tente de novo!
+
+=============//=============//=============//=============//=============//=============//=============
+# 11
+
+Palíndromo. Um palíndromo é uma seqüência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice−versa. Por exemplo: OSSO e OVO são palíndromos. Em textos mais complexos os espaços e pontuação são ignorados. A frase SUBI NO ONIBUS é o exemplo de uma frase palíndroma onde os espaços foram ignorados. Faça um programa que leia uma seqüência de caracteres, mostre−a e diga se é um palíndromo ou não.
+
+=============//=============//=============//=============//=============//=============//=============
+# 12
+
+Tamanho de strings. Faça um programa que leia 2 strings e informe o conteúdo delas seguido do seu comprimento. Informe também se as duas strings possuem o mesmo comprimento e são iguais ou diferentes no conteúdo.
+
+Compara duas strings
+String 1: Brasil Hexa 2006
+String 2: Brasil! Hexa 2006!
+Tamanho de "Brasil Hexa 2006": 16 caracteres
+Tamanho de "Brasil! Hexa 2006!": 18 caracteres
+As duas strings são de tamanhos diferentes.
+As duas strings possuem conteúdo diferente.
+Nome ao contrário em maiúsculas. Faça um programa que permita ao usuário digitar o seu nome e em seguida mostre o nome do usuário de trás para frente utilizando somente letras maiúsculas. Dica: lembre−se que ao informar o nome o usuário pode digitar letras maiúsculas ou minúsculas.
+
+=============//=============//=============//=============//=============//=============//=============
+# 13
+
+Nome na vertical. Faça um programa que solicite o nome do usuário e imprima-o na vertical.
+
+F
+U
+L
+A
+N
+O
+
+Nome na vertical em escada. Modifique o programa anterior de forma a mostrar o nome em formato de escada.
+
+F
+FU
+FUL
+FULA
+FULAN
+FULANO
+
+Nome na vertical em escada invertida. Altere o programa anterior de modo que a escada seja invertida.
+
+FULANO
+FULAN
+FULA
+FUL
+FU
+F
+
+=============//=============//=============//=============//=============//=============//=============
+# 14
+
+Data com mês por extenso. Construa uma função que receba uma data no formato DD/MM/AAAA e devolva uma string no formato D de mesPorExtenso de AAAA. Opcionalmente, valide a data e retorne NULL caso a data seja inválida.
+
+=============//=============//=============//=============//=============//=============//=============
+# 15
+
+Embaralha palavra. Construa uma função que receba uma string como parâmetro e devolva outra string com os carateres embaralhados. Por exemplo: se função receber a palavra python, pode retornar npthyo, ophtyn ou qualquer outra combinação possível, de forma aleatória. Padronize em sua função que todos os caracteres serão devolvidos em caixa alta ou caixa baixa, independentemente de como foram digitados.
+
+=============//=============//=============//=============//=============//=============//=============
+# 16
+
+Quadrado mágico. Um quadrado mágico é aquele dividido em linhas e colunas, com um número em cada posição e no qual a soma das linhas, colunas e diagonais é a mesma. Por exemplo, veja um quadrado mágico de lado 3, com números de 1 a 9:
+
+8  3  4 
+1  5  9
+6  7  2
+Elabore uma função que identifica e mostra na tela todos os quadrados mágicos com as características acima. Dica: produza todas as combinações possíveis e verifique a soma quando completar cada quadrado. Usar um vetor de 1 a 9 parece ser mais simples que usar uma matriz 3x3.
+
+=============//=============//=============//=============//=============//=============//=============
+# 17
+
+https://wiki.python.org.br/ExerciciosArquivos
+
+https://wiki.python.org.br/ListaDeExercicios
